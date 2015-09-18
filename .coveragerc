@@ -1,0 +1,3 @@
+[run]
+include = pr/*
+omit = *migrations*
